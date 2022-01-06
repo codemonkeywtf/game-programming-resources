@@ -1,2 +1,2 @@
 # Wiki
-[View the Wiki](https://wiki)
+[View the Wiki](https://github.com/codemonkeywtf/game-programming-resources/wiki)
